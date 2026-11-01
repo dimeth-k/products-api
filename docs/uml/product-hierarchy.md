@@ -21,5 +21,5 @@ class PhysicalProduct {
 +getDimensions() String
 }
 
-Product <|-- 
+Product <|-- DigitalProduct
 Product <|-- PhysicalProduct
